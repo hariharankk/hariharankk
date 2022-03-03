@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariharankk
-- 👀 I’m interested in trading, blockchain devolpment
-- 🌱 I’m currently learning haskel and smart contract development
+- 👀 I’m interested in trading, blockchain, machine leanring, data engineering
+- 🌱 I’m currently learning to build data engineering piplens and models 
 - 💞️ I’m looking to collaborate on building trading bots
 - 📫 How to reach me hkannan084@gmail.com
 
